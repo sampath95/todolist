@@ -1,0 +1,42 @@
+.center .header input {
+  padding: 10px;
+  font-size: 20px;
+  border:2px;
+  width: 200px;
+}
+
+.center .header button {
+padding: 10px;
+font-size: 20px;
+margin: 10px;
+margin-right: 0px;
+background-color: blueviolet;
+border: 2px;
+
+}
+
+.centre .header button:hover{
+background-color: blue;
+border: 2px;
+cursor: pointer;
+
+}  
+
+
+.center .theList li{
+  color: #333;
+  background-color: rgba(255, 255, 255, 5);
+  padding:15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  list-style: none;
+}
+
+ul.theList{
+  padding:0;
+}
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  

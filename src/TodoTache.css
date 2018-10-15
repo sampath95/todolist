@@ -1,0 +1,58 @@
+
+.TodoTacheMain .header input {
+    padding: 15px;
+    font-size: 18px;
+    border: 2px solid rgb(154, 240, 228);
+    width: 195px;
+    border-radius: 6px;
+    font-family: sans-serif;
+  }
+  .TodoTacheMain .header button {
+    padding: 15px;
+    font-size: 17px;
+    margin: 20px;
+    margin-right: 0px;
+    background-color: rgb(69, 156, 149);
+    color: #FFF;
+    border-radius: 10px;
+    font-family: 'Permanent Marker', cursive;
+     }
+
+  .TodoTacheMain .header button:hover {
+    background-color: rgb(173, 56, 56);
+    cursor: pointer;
+  }
+
+
+  .TodoTacheMain .button button {
+    padding: 5px;
+    font-size: 15px;
+    margin: 10px;
+    margin-right: 0px;
+    background-color: #333;
+    color: #FFF;
+    border-radius: 7px;
+    font-family: sans-serif;
+  }
+
+  
+  
+  .TodoTacheMain .theList {
+    list-style: none;
+    padding-left: 0;
+    width: 320px;
+    font-family: sans-serif;
+    font-size: 18px;
+    
+  } 
+  .TodoTacheMain .theList li {
+    color: #333;
+    background-color: rgba(241, 93, 82, 0.5);
+    padding: 17px;
+    margin-bottom: 17px;
+    border-radius: 6px;
+    list-style: none;
+  }
+  ul.theList {
+    padding: 0;
+  }
